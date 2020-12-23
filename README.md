@@ -5,8 +5,6 @@ Proyecto modular con algunos tips y demos ;)
 
 #### Ejecución de los ejemplos
 
-Ejecución global de todos los módulos (por línea de comandos o a través del IDE que utilices): invocación de la task <b>run</b> de Gradle. 
-- Linux / macOS
 ``` 
  node [nombreEjemplo]
 ```
@@ -16,6 +14,7 @@ nodemon [nombreEjemplo]
 ```
 
 #### Módulos
+
 
 
 
