@@ -16,6 +16,7 @@ Proyecto modular con tips y demos ;)
 + [Template Literals](samples/template-literals.js)
 + [Arrow Functions](samples/arrow-function.js)
 + [Timeout](samples/timeout.js)
++ Inheritance. Prototype (ES5) vs Classes (ES6)
 
 
 
