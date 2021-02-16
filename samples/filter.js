@@ -20,7 +20,7 @@ main()
 
 
 //example 2
-let checkAge = () => (age) => age >= 18;
+let checkAge = (age) => age >= 18;
 
 // Autoinv: filter over ages
 let verify = ((ages) => {
